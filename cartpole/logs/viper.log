@@ -1,0 +1,188 @@
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.959
+INFO:root:Current CV Score: 0.9604999999999999
+INFO:root:Current CV Score: 0.9390000000000001
+INFO:root:Current CV Score: 0.957
+INFO:root:Current CV Score: 0.9584999999999999
+INFO:root:Current CV Score: 0.9524999999999999
+INFO:root:Current CV Score: 0.9524999999999999
+INFO:root:Current CV Score: 0.955
+INFO:root:Current CV Score: 0.958
+INFO:root:Current CV Score: 0.948
+INFO:root:Final Model on Iteration: 1
+INFO:root:Best Accuracy CV: 0.9604999999999999
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9584999999999999
+INFO:root:Current CV Score: 0.956
+INFO:root:Current CV Score: 0.9315
+INFO:root:Current CV Score: 0.949
+INFO:root:Current CV Score: 0.9245000000000001
+INFO:root:Current CV Score: 0.924
+INFO:root:Current CV Score: 0.9450000000000001
+INFO:root:Current CV Score: 0.931
+INFO:root:Current CV Score: 0.9339999999999999
+INFO:root:Current CV Score: 0.9355
+INFO:root:Final Model on Iteration: 0
+INFO:root:Best Accuracy CV: 0.9584999999999999
+INFO:root:Best Reward: 183.2
+INFO:root:Best Episode Count: 183.2
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.967
+INFO:root:Current CV Score: 0.96
+INFO:root:Current CV Score: 0.9510000000000002
+INFO:root:Current CV Score: 0.9484999999999999
+INFO:root:Current CV Score: 0.9410000000000001
+INFO:root:Current CV Score: 0.9550000000000001
+INFO:root:Current CV Score: 0.946
+INFO:root:Current CV Score: 0.9555
+INFO:root:Current CV Score: 0.9644999999999999
+INFO:root:Current CV Score: 0.9515
+INFO:root:Final Model on Iteration: 0
+INFO:root:Best Accuracy CV: 0.967
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9824999999999999
+INFO:root:Current CV Score: 0.9734999999999999
+INFO:root:Current CV Score: 0.9709999999999999
+INFO:root:Current CV Score: 0.9579999999999999
+INFO:root:Current CV Score: 0.9550000000000001
+INFO:root:Current CV Score: 0.9475
+INFO:root:Current CV Score: 0.9444999999999999
+INFO:root:Current CV Score: 0.9470000000000001
+INFO:root:Current CV Score: 0.9484999999999999
+INFO:root:Current CV Score: 0.9344999999999999
+INFO:root:Final Model on Iteration: 0
+INFO:root:Best Accuracy CV: 0.9824999999999999
+INFO:root:Best Reward: 144.6
+INFO:root:Best Episode Count: 144.6
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.982
+INFO:root:Current CV Score: 0.9635
+INFO:root:Current CV Score: 0.9474999999999998
+INFO:root:Current CV Score: 0.9450000000000001
+INFO:root:Current CV Score: 0.9385
+INFO:root:Current CV Score: 0.9385000000000001
+INFO:root:Current CV Score: 0.9475
+INFO:root:Current CV Score: 0.9495000000000001
+INFO:root:Current CV Score: 0.9484999999999999
+INFO:root:Current CV Score: 0.944
+INFO:root:Final Model on Iteration: 0
+INFO:root:Best Accuracy CV: 0.982
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9551575323540655
+INFO:root:Current CV Score: 0.954205
+INFO:root:Current CV Score: 0.952445
+INFO:root:Current CV Score: 0.9532700000000001
+INFO:root:Current CV Score: 0.952585
+INFO:root:Current CV Score: 0.9526450000000001
+INFO:root:Current CV Score: 0.9528449999999999
+INFO:root:Current CV Score: 0.952835
+INFO:root:Current CV Score: 0.9523349999999999
+INFO:root:Current CV Score: 0.953515
+INFO:root:Final Model on Iteration: 0
+INFO:root:Best Accuracy CV: 0.9551575323540655
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9532964989583613
+INFO:root:Current CV Score: 0.952445
+INFO:root:Current CV Score: 0.953135
+INFO:root:Current CV Score: 0.95279
+INFO:root:Current CV Score: 0.95149
+INFO:root:Current CV Score: 0.9527950000000001
+INFO:root:Current CV Score: 0.952195
+INFO:root:Current CV Score: 0.953745
+INFO:root:Current CV Score: 0.95304
+INFO:root:Current CV Score: 0.953435
+INFO:root:Final Model on Iteration: 7
+INFO:root:Best Accuracy CV: 0.953745
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9718985949297465
+INFO:root:Current CV Score: 0.9740650000000001
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9693465732866434
+INFO:root:Current CV Score: 0.96915
+INFO:root:Current CV Score: 0.9707000000000001
+INFO:root:Current CV Score: 0.9691000000000001
+INFO:root:Current CV Score: 0.9688000000000001
+INFO:root:Current CV Score: 0.9692000000000001
+INFO:root:Current CV Score: 0.9694500000000001
+INFO:root:Current CV Score: 0.9722500000000001
+INFO:root:Current CV Score: 0.97055
+INFO:root:Current CV Score: 0.9667999999999999
+INFO:root:Final Model on Iteration: 7
+INFO:root:Best Accuracy CV: 0.9722500000000001
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9765986993496748
+INFO:root:Current CV Score: 0.9734499999999999
+INFO:root:Current CV Score: 0.9747
+INFO:root:Current CV Score: 0.97445
+INFO:root:Current CV Score: 0.9761
+INFO:root:Current CV Score: 0.97355
+INFO:root:Current CV Score: 0.97095
+INFO:root:Current CV Score: 0.97295
+INFO:root:Current CV Score: 0.9730500000000001
+INFO:root:Current CV Score: 0.9736499999999999
+INFO:root:Final Model on Iteration: 0
+INFO:root:Best Accuracy CV: 0.9765986993496748
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9656471485742871
+INFO:root:Current CV Score: 0.96235
+INFO:root:Current CV Score: 0.9641
+INFO:root:Current CV Score: 0.9596500000000001
+INFO:root:Current CV Score: 0.959
+INFO:root:Current CV Score: 0.9606499999999999
+INFO:root:Current CV Score: 0.9602
+INFO:root:Current CV Score: 0.9624499999999999
+INFO:root:Current CV Score: 0.9576
+INFO:root:Current CV Score: 0.96115
+INFO:root:Final Model on Iteration: 0
+INFO:root:Best Accuracy CV: 0.9656471485742871
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Initialising Dataset...
+INFO:root:Initialising Training...
+INFO:root:Current CV Score: 0.9602999999999999
+INFO:root:Current CV Score: 0.9617000000000001
+INFO:root:Current CV Score: 0.9610999999999998
+INFO:root:Current CV Score: 0.96035
+INFO:root:Current CV Score: 0.95975
+INFO:root:Current CV Score: 0.9574
+INFO:root:Current CV Score: 0.95655
+INFO:root:Current CV Score: 0.9577
+INFO:root:Current CV Score: 0.9585000000000001
+INFO:root:Current CV Score: 0.9553
+INFO:root:Final Model on Iteration: 1
+INFO:root:Best Accuracy CV: 0.9617000000000001
+INFO:root:Best Reward: 200.0
+INFO:root:Best Episode Count: 200.0
