@@ -1,10 +1,12 @@
-This is the current working repository for the paper "Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes". A pre-print of the paper is available here. The paper was published with an oral presentation at ICLR 2023, Rwanda.
+This is the current working repository for the paper "Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes". A pre-print of the paper is available in this repo above. The paper was published as a spotlight at ICLR 2023, Rwanda. (top 25% of accepted papers)
 
-This repo will be under construction for the next couple of weeks, but we upload current code if people are interested sooner.
+This repo will be under construction for the next couple of weeks, when I will make it much more user friendly.
+
+However, we upload current code if people are interested sooner. Note however that it is a bit difficult to use or make sense of in the present format.
 
 ===========================================================
 
-The four domains used with the scripts are included.
+The six domains used with the scripts are included.
 
 Note that you will need to download the repositories linked in the paper for each domain.
 For example, the models are not included here. 
@@ -12,6 +14,8 @@ For example, the models are not included here.
 Much of the code is borrowed from these repos.
 
 The user study PDFs are also included.
+
+(again, note I will make this easier to reproduce the next few weeks)
 
 
 =======================
@@ -21,3 +25,5 @@ When you have downloaded the repos
 2. Run the collect_data.py script.
 3. Run the other scripts to collect results for each method.
 
+Thanks for your patience!
+Authors
