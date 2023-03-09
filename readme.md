@@ -1,5 +1,5 @@
 
-# Prototype Wrapper Network
+# Prototype-Wrapper Network
 
 ![alt text](graphics/title.png "Title")
 
