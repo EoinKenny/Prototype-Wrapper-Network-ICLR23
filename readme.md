@@ -1,5 +1,5 @@
 
-# Prototype-Wrapper Network
+# Prototype-Wrapper Network (PW-Net)
 
 ![alt text](graphics/title.png "Title")
 
