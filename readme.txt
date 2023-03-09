@@ -1,4 +1,12 @@
-This is the current working repository for the paper "Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes". A pre-print of the paper is available in this repo above. The paper was published as a spotlight at ICLR 2023, Rwanda. (top 25% of accepted papers)
+This is the repository for the paper "Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes".
+
+*** 
+
+*italic*
+
+**bold**
+
+The paper was published as a spotlight at ICLR 2023, Rwanda
 
 This repo will be under construction for the next couple of weeks, when I will make it much more user friendly.
 
