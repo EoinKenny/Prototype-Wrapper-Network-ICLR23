@@ -6,7 +6,7 @@
 
 This is the repository for the paper *"Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes"*[^1].
 
-The paper was published as a spotlight at ICLR 2023, Rwanda, see paper [here](https://openreview.net/forum?id=hWwY_Jq0xsN)
+The paper was published with a spotlight presentation at ICLR 2023, Kigali, Rwanda, see paper [here](https://openreview.net/forum?id=hWwY_Jq0xsN).
 
 The paper proposes a "wrapper" component which can be added to any pre-trained agent to make it interpretable-by-design. Specifically, the original agent $f_{enc}$ is used as an encoder, which produces an output $z$. This representation is then transformed by going through multiple different MLP networks $h_{i,j}$ which then assess its similarity to pre-defined human-interpretable prototypes $p_{i,j}$ for common concepts used in the domain. For example, in the figure above, common concepts used in driving are "right turn", "left turn", "accelerate", and "brake". So, we defined these *a-priori* alongside the output weight matrix $W'$, which together form an interpretable design for the agent.
 
