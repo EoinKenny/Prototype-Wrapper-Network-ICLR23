@@ -1,6 +1,9 @@
 
 # Prototype Wrapper Network
 
+![alt text](graphics/title.png "Title")
+
+
 This is the repository for the paper *"Towards Interpretable Deep Reinforcement Learning with Human-Friendly Prototypes"*[^1].
 
 The paper was published as a spotlight at ICLR 2023, Rwanda, see paper [here](https://openreview.net/forum?id=hWwY_Jq0xsN)
