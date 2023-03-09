@@ -16,7 +16,7 @@ This repo uses a lot of the code from Jain (2022)[^2], from which we use the pre
 
 --------------
 
-To reproduce these results for the Car Racing Domain Simply copy the whole repo and run these commands in the terminal whilst in the directory:
+To reproduce these results for the Car Racing Domain Simply copy the whole repo and run these commands in the terminal whilst in the "Car Racing" directory:
 
 ```
 python3 -m venv pwnet
