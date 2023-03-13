@@ -101,6 +101,6 @@ url={https://openreview.net/forum?id=hWwY_Jq0xsN}
 
 [^2]: Jinay Jain. Jinayjain/deep-racing: Self-driving racecar using reinforcement learning (proxi- mal policy optimization) in pytorch, 2022. URL https://github.com/JinayJain/ deep-racing.
 
-[^3] Behc¸et Şentürk. https://github.com/bhctsntrk/openaipong-dqn, 2022. URL ¨ [https://github.
+[^3]: Behc¸et Şentürk. https://github.com/bhctsntrk/openaipong-dqn, 2022. URL ¨ [https://github.
 com/nikhilbarhate99/Actor-Critic-PyTorch](https://github.com/bhctsntrk/OpenAIPong-DQN).
 
