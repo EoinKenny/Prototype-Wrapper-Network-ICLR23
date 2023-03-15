@@ -2,6 +2,7 @@ import toml
 import numpy as np
 import torch
 import pickle
+import os
 
 from argparse import ArgumentParser
 from os.path import join
@@ -14,6 +15,11 @@ from tqdm import tqdm
 CONFIG_FILE = "config.toml"
 device = 'cpu'
 NUM_EPISODES = 30
+
+if not os.path.exists('weights/'):
+    os.mkdir('weights/')
+if not os.path.exists('data/'):
+    os.mkdir('data/')
  
 
 def load_config():
