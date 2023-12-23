@@ -68,7 +68,7 @@ class RacingNet(nn.Module):
 
 class CarRacing(gym.Wrapper):
     def __init__(self, frame_skip=0, frame_stack=4):
-        self.env = gym.make("CarRacing-v1")
+        self.env = gym.make("CarRacing-v0")
         super().__init__(self.env)
 
         self.frame_skip = frame_skip
