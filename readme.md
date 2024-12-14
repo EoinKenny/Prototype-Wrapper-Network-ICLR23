@@ -16,7 +16,7 @@ This repo uses a lot of the code from Jain (2022)[^2], from which we use the pre
 
 --------------
 
-### Car Racing (update Ded 2024: You must use Numpy < 2)
+### Car Racing (updated Dec 2024: You must use Numpy < 2)
 
 To reproduce these results for the Car Racing Domain Simply copy the whole repo and run these commands in the terminal whilst in the "Car Racing" directory:
 
