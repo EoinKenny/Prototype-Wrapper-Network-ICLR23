@@ -32,6 +32,8 @@ pip install tqdm
 pip install gym==0.24.0
 pip install gym-notices==0.0.7
 pip install scikit-learn
+pip install numpy==1.26.4
+pip install matplotlib
 ```
 
 Then run
